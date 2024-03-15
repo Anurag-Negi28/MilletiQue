@@ -1,0 +1,76 @@
+/* Basic Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Typography */
+  body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f7e0e0;
+  }
+  
+  /* Header */
+  .header {
+    background: url('./Images/20211123_093840.jpg') no-repeat center center/cover;
+    color: #000000;
+    padding: 40px 10px;
+    margin-top: 10px;
+    margin-bottom:10px;
+    border-radius: 10px;
+  }
+  
+  .header h1 {
+    margin-bottom: 10px;
+    font-size: 2.5rem;
+  }
+  
+  .header p {
+    font-size: 1.1rem;
+  }
+  
+  /* Main Content */
+  .content {
+    padding: 20px;
+  }
+
+  .carousel-item {
+    background-color: #ffc2d9;
+  }
+
+  .carousel-item img {
+    padding: 2px;
+    border-radius: 20px;
+    transition: all 0.3s ease; /* Adjust transition as needed */
+  }
+
+  .carousel-item img:hover {
+    transform: scale(1.08);
+    border-radius: 30px;
+  }
+  
+  /* Footer */
+  .footer {
+    background-color: #a8ff7c;
+    color: #000000;
+    justify-content: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 768px) {
+    .header h1 {
+      font-size: 2rem;
+    }
+  
+    .header p {
+      font-size: 1rem;
+    }
+  }
+  
