@@ -38,18 +38,13 @@
   }
 
   .carousel-item {
-    background-color: #98dcf9;
+    background-color: #f7e0e0;
   }
 
   .carousel-item img {
     padding: 2px;
     border-radius: 20px;
     transition: all 0.3s ease; /* Adjust transition as needed */
-  }
-
-  .carousel-item img:hover {
-    transform: scale(1.08);
-    border-radius: 30px;
   }
   
   /* Footer */
