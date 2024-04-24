@@ -1,0 +1,205 @@
+.sign-up {
+    background-color: rgba(255, 255, 255, 1);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.sign-up .sign-up-wrapper {
+    background-color: rgba(255, 255, 255, 1);
+    background: linear-gradient(
+        180deg,
+        rgba(111, 157, 172, 0.44) 2.62%,
+        rgb(111, 157, 172) 50%,
+        rgb(111, 157, 172) 50.03%,
+        rgb(111, 157, 172) 100%
+    );
+    width: 1440px;
+    height: 1024px;
+}
+
+.sign-up .overlap-group-wrapper {
+    position: relative;
+    width: 696px;
+    height: 598px;
+    top: 143px;
+    left: 375px;
+}
+
+.sign-up .overlap-group {
+    position: relative;
+    width: 690px;
+    height: 598px;
+    background-color: #ffffff1a;
+    border-radius: 40px;
+    backdrop-filter: blur(25px) brightness(100%);
+    -webkit-backdrop-filter: blur(25px) brightness(100%);
+}
+
+.sign-up .text-wrapper {
+    position: absolute;
+    height: 46px;
+    top: 79px;
+    left: 90px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 38px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.sign-up .overlap {
+    position: absolute;
+    width: 500px;
+    height: 50px;
+    top: 500px;
+    left: 90px;
+    border-radius: 10px;
+}
+
+.sign-up .rectangle {
+    top: 0;
+    background-color: #ff77a4;
+    position: absolute;
+    width: 500px;
+    height: 50px;
+    left: 0;
+    border-radius: 10px;
+}
+
+.sign-up .div {
+    position: absolute;
+    height: 24px;
+    top: 13px;
+    left: 168px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.sign-up .email-password {
+    position: absolute;
+    width: 508px;
+    height: 337px;
+    top: 134px;
+    left: 90px;
+}
+
+.sign-up .text-wrapper-2 {
+    position: absolute;
+    height: 22px;
+    top: 258px;
+    left: 0;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.sign-up .rectangle-2 {
+    top: 287px;
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #bcbec0;
+    position: absolute;
+    width: 500px;
+    height: 50px;
+    left: 0;
+    border-radius: 10px;
+}
+
+.sign-up .text-wrapper-3 {
+    position: absolute;
+    height: 22px;
+    top: 86px;
+    left: 3px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.sign-up .text-wrapper-4 {
+    position: absolute;
+    height: 22px;
+    top: 0;
+    left: 0;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.sign-up .text-wrapper-5 {
+    position: absolute;
+    height: 22px;
+    top: 172px;
+    left: 0;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.sign-up .rectangle-3 {
+    top: 115px;
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #bcbec0;
+    position: absolute;
+    width: 500px;
+    height: 50px;
+    left: 0;
+    border-radius: 10px;
+}
+
+.sign-up .rectangle-4 {
+    top: 29px;
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #bcbec0;
+    position: absolute;
+    width: 500px;
+    height: 50px;
+    left: 0;
+    border-radius: 10px;
+}
+
+.sign-up .rectangle-5 {
+    position: absolute;
+    width: 500px;
+    height: 50px;
+    top: 201px;
+    left: 0;
+    background-color: #ffffff;
+    border-radius: 10px;
+    border: 1px solid;
+    border-color: #bcbec0;
+}
+
+.sign-up .text-wrapper-6 {
+    position: absolute;
+    height: 29px;
+    top: 42px;
+    left: 90px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+}

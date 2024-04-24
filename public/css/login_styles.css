@@ -1,0 +1,172 @@
+.login-page {
+    background-color: rgba(255, 255, 255, 1);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.login-page .login-wrapper {
+    background-color: rgba(255, 255, 255, 1);
+    background: linear-gradient(
+        180deg,
+        rgb(111, 157, 172) 2.62%,
+        rgb(111, 157, 172) 50%,
+        rgb(111, 157, 172) 50.03%,
+        rgb(111, 157, 172) 100%
+    );
+    width: 1440px;
+    height: 1024px;
+}
+
+.login-page .login {
+    position: relative;
+    width: 698px;
+    height: 598px;
+    top: 142px;
+    left: 375px;
+}
+
+.login-page .overlap-group {
+    position: relative;
+    width: 690px;
+    height: 598px;
+    background-color: #ffffff1a;
+    border-radius: 40px;
+    backdrop-filter: blur(25px) brightness(100%);
+    -webkit-backdrop-filter: blur(25px) brightness(100%);
+}
+
+.login-page .text-wrapper {
+    position: absolute;
+    height: 29px;
+    top: 48px;
+    left: 96px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.login-page .div {
+    position: absolute;
+    height: 46px;
+    top: 90px;
+    left: 96px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 38px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.login-page .text-wrapper-2 {
+    position: absolute;
+    height: 17px;
+    top: 521px;
+    left: 300px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.login-page .overlap {
+    position: absolute;
+    width: 500px;
+    height: 50px;
+    top: 417px;
+    left: 99px;
+    background-color: #ff77a4;
+    border-radius: 10px;
+}
+
+.login-page .text-wrapper-3 {
+    position: absolute;
+    height: 24px;
+    top: 13px;
+    left: 218px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.login-page .email-password {
+    position: absolute;
+    width: 506px;
+    height: 215px;
+    top: 161px;
+    left: 96px;
+}
+
+.login-page .rectangle {
+    top: 27px;
+    position: absolute;
+    width: 500px;
+    height: 50px;
+    left: 0;
+    background-color: #ffffff;
+    border-radius: 10px;
+    border: 1px solid;
+    border-color: #bcbec0;
+}
+
+.login-page .text-wrapper-4 {
+    position: absolute;
+    height: 22px;
+    top: 0;
+    left: 0;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.login-page .rectangle-2 {
+    top: 133px;
+    position: absolute;
+    width: 500px;
+    height: 50px;
+    left: 0;
+    background-color: #ffffff;
+    border-radius: 10px;
+    border: 1px solid;
+    border-color: #bcbec0;
+}
+
+.login-page .text-wrapper-5 {
+    position: absolute;
+    height: 22px;
+    top: 106px;
+    left: 0;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.login-page .text-wrapper-6 {
+    position: absolute;
+    height: 15px;
+    top: 200px;
+    left: 0;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+}

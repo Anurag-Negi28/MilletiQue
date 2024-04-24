@@ -15,7 +15,7 @@
   
   /* Header */
   .header {
-    background: url('./Images/20211123_093840.jpg') no-repeat center center/cover;
+    background: url('/Images/20211123_093840.jpg') no-repeat center center/cover;
     color: #000000;
     padding: 40px 10px;
     margin-top: 10px;
